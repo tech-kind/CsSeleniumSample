@@ -1,1 +1,4 @@
 packages/
+CsSeleniumSample/bin/
+CsSeleniumSample/obj/
+.vs/
